@@ -1,4 +1,4 @@
-package com.skyhope.showmoretextview;
+package com.yasikuiux.showmoretextview;
 
 import org.junit.Test;
 
